@@ -5,3 +5,8 @@
 *.pdf
 *.doc
 *.docx
+*.bmp
+*.pkl
+*.pt
+*.gz
+*.html
